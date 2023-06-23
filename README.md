@@ -6,5 +6,6 @@ Full-Stack ToDo list with database created using:
 - JavaScript
 - NodeJS
 - Express
+- EJS
 - MongoDB
 - Mongoose
